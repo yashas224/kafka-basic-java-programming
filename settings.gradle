@@ -1,0 +1,3 @@
+rootProject.name = 'kafka-basics'
+include 'kafka-basics-code'
+
